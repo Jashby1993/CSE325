@@ -1,0 +1,15 @@
+C:\Users\jashb\Documents\School\CSE325\dotNetDependencies\bin\Debug\net8.0\CSE325.exe
+C:\Users\jashb\Documents\School\CSE325\dotNetDependencies\bin\Debug\net8.0\CSE325.deps.json
+C:\Users\jashb\Documents\School\CSE325\dotNetDependencies\bin\Debug\net8.0\CSE325.runtimeconfig.json
+C:\Users\jashb\Documents\School\CSE325\dotNetDependencies\bin\Debug\net8.0\CSE325.dll
+C:\Users\jashb\Documents\School\CSE325\dotNetDependencies\bin\Debug\net8.0\CSE325.pdb
+C:\Users\jashb\Documents\School\CSE325\dotNetDependencies\obj\Debug\net8.0\CSE325.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jashb\Documents\School\CSE325\dotNetDependencies\obj\Debug\net8.0\CSE325.AssemblyInfoInputs.cache
+C:\Users\jashb\Documents\School\CSE325\dotNetDependencies\obj\Debug\net8.0\CSE325.AssemblyInfo.cs
+C:\Users\jashb\Documents\School\CSE325\dotNetDependencies\obj\Debug\net8.0\CSE325.csproj.CoreCompileInputs.cache
+C:\Users\jashb\Documents\School\CSE325\dotNetDependencies\obj\Debug\net8.0\CSE325.sourcelink.json
+C:\Users\jashb\Documents\School\CSE325\dotNetDependencies\obj\Debug\net8.0\CSE325.dll
+C:\Users\jashb\Documents\School\CSE325\dotNetDependencies\obj\Debug\net8.0\refint\CSE325.dll
+C:\Users\jashb\Documents\School\CSE325\dotNetDependencies\obj\Debug\net8.0\CSE325.pdb
+C:\Users\jashb\Documents\School\CSE325\dotNetDependencies\obj\Debug\net8.0\CSE325.genruntimeconfig.cache
+C:\Users\jashb\Documents\School\CSE325\dotNetDependencies\obj\Debug\net8.0\ref\CSE325.dll
