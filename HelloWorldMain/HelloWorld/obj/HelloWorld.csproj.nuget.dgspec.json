@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jashb\\Documents\\School\\CSE325\\HelloWorld\\HelloWorld.csproj": {}
+    "C:\\Users\\jashb\\Documents\\School\\CSE325\\HelloWorldMain\\HelloWorld\\HelloWorld.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jashb\\Documents\\School\\CSE325\\HelloWorld\\HelloWorld.csproj": {
+    "C:\\Users\\jashb\\Documents\\School\\CSE325\\HelloWorldMain\\HelloWorld\\HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jashb\\Documents\\School\\CSE325\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "C:\\Users\\jashb\\Documents\\School\\CSE325\\HelloWorldMain\\HelloWorld\\HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "C:\\Users\\jashb\\Documents\\School\\CSE325\\HelloWorld\\HelloWorld.csproj",
+        "projectPath": "C:\\Users\\jashb\\Documents\\School\\CSE325\\HelloWorldMain\\HelloWorld\\HelloWorld.csproj",
         "packagesPath": "C:\\Users\\jashb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jashb\\Documents\\School\\CSE325\\HelloWorld\\obj\\",
+        "outputPath": "C:\\Users\\jashb\\Documents\\School\\CSE325\\HelloWorldMain\\HelloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jashb\\AppData\\Roaming\\NuGet\\NuGet.Config"
